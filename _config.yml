@@ -1,6 +1,7 @@
 title: Avinash's Idea Lab
 description: A journey through my random, creative pursuits.
-theme: just-the-docs
+# theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 url: https://avinash1419.github.io
 
