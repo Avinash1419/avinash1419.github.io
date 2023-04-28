@@ -20,3 +20,5 @@ search:
   button: true
 
 color_scheme: dark
+
+footer_content: "Copyright &copy; 2022 Avinash Thavva."
