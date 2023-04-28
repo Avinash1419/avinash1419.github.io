@@ -3,6 +3,9 @@ title: About
 layout: home
 ---
 
+WIP
+{: .label .label-yellow }
+
 Hi, this is Avinash. Currently, I'm working as a Data Analyst.
 
 I am building this website mainly because, 
